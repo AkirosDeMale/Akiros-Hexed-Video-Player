@@ -540,7 +540,9 @@ html, body {
         position: relative;
         bottom: auto;
     }
-
+    .volume{
+        width: 50px;
+    }
     .r_b, .l_b {
         flex-wrap: wrap;
     }
@@ -548,12 +550,10 @@ html, body {
     .seek {
         width: 20px;
     }
-
-    .controls {
-        padding-bottom: 14px;
-    }
-
     .play_button {
         display: none;
+    }
+    .bar{
+    margin: 0 0 -10px 0; /* вместо bottom */
     }
 }
