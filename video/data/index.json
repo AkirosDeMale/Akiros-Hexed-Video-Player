@@ -1,0 +1,12 @@
+{
+  "titles": [
+    {
+      "name": "Test",
+      "path": "video/data/test.json"
+    },
+    {
+      "name": "Test2",
+      "path": "video/data/test2.json"
+    }
+  ]
+}

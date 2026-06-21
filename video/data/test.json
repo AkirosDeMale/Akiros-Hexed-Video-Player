@@ -1,0 +1,15 @@
+{
+  "title": "Series Name",
+  "episodes": [
+    {
+      "id": 1,
+      "name": "1",
+      "src": "video/0afc058184599bdebfab9cd8cc7417ee.mp4"
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "src": "video/video_1080p.mp4"
+    }
+  ]
+}

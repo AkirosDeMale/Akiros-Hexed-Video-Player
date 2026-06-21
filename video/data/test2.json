@@ -1,0 +1,15 @@
+{
+  "title": "test2",
+  "episodes": [
+    {
+      "id": 1,
+      "name": "1",
+      "src": "video/video_1080p.mp4"
+    },
+    {
+      "id": 2,
+      "name": "1",
+      "src": "video/0afc058184599bdebfab9cd8cc7417ee.mp4"
+    }
+  ]
+}
